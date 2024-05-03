@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Sam Carter</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Shabbir Abbas</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sam Carter" height="30" width="40" /></a>
  <a href = "mailto: samcarter1143@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    Please meet, Sam Carter<br>
+    Please meet, Shabbir<br>
     A budding <b>Full-Stack Software Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> 🚀 and
